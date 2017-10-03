@@ -1,0 +1,24 @@
+.avatar {
+	border-radius:50%;
+}
+
+.row {
+	display:flex;
+	flex-wrap:wrap;
+}
+
+.container {
+	margin-right: auto;
+    margin-left: auto;
+    padding-right: 15px;
+    padding-left: 15px;
+    width: auto;
+}
+
+.col-sm-6, .col-md-3 {
+	position: relative;
+    width: auto;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
